@@ -4,7 +4,8 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Advertisi
 breadcrumb-title: Tutoriels Advertising
 role: User
 level: Beginner, Intermediate
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+auto-video-transcripts: true
+source-git-commit: 65f84dafc00203be415e60f4e3aabbfba70d7fbb
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -14,7 +15,7 @@ ht-degree: 16%
 
 # Tutoriels Adobe Advertising {#tutorials}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + DSP {#dsp}
    + [Présentation de la DSP de publicité](/help/dsp/intro.md)
    + [Structure de compte et interface utilisateur](/help/dsp/ui.md)
