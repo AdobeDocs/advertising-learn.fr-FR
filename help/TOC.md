@@ -17,22 +17,22 @@ ht-degree: 16%
 
 + [Vue d’ensemble](overview.md)
 + DSP {#dsp}
-   + [Présentation de la DSP de publicité](/help/dsp/intro.md)
+   + [Présentation d’Advertising DSP](/help/dsp/intro.md)
    + [Structure de compte et interface utilisateur](/help/dsp/ui.md)
    + [Création d’un module](/help/dsp/package-create.md)
    + [Création d’un emplacement d’affichage standard](/help/dsp/placement-create.md)
    + [Comment modifier des emplacements à l’aide des outils de modification en bloc](/help/dsp/bulk-edit-placement-tools.md)
    + [Comment télécharger en bloc des balises publicitaires tierces](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [Introduction à [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
+   + [Présentation de [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
    + [Créer des rapports d’entrée sur le site Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [Créer [!DNL Analytics] Segments pour l’activation et la création de rapports](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Introduction à [!DNL Analysis Workspace] pour les données d’Adobe Advertising de rapports](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Utilisation [!DNL Marketing Channels] pour les rapports d’Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Créer [!DNL Analytics] Profils d’activation et de création de rapports d’Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Créer [!DNL Analytics] des segments pour l’activation et la création de rapports](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [Introduction à [!DNL Analysis Workspace] pour la création de rapports de données d’Adobe Advertising](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Utilisation de  [!DNL Marketing Channels]  pour la création de rapports d’Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Créer [!DNL Analytics] des profils pour l’activation et la création de rapports d’Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Création d’une analyse Campaign de prélancement avec Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Création de tableaux de bord d’Adobe Advertising avec Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Créer [!DNL Analytics] Mesures personnalisées avec données d’Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Créer [!DNL Analytics] des mesures personnalisées avec des données d’Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

@@ -1,6 +1,6 @@
 ---
 title: Créer des rapports d’entrée sur le site Adobe Advertising
-description: Découvrez comment créer un rapport d’entrée sur le site d’Adobe Advertising afin de surveiller le jour de la semaine, l’heure de la journée, le navigateur et les influences géographiques.
+description: Découvrez comment créer un rapport d’entrée sur le site d’Adobe Advertising afin de surveiller les influences (jour de la semaine, heure de la journée, navigateur et géographique).
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Annonceurs avec[!DNL Adobe Analytics for Adobe Advertising]*
 
-Découvrez comment créer un rapport d’entrée sur le site d’Adobe Advertising afin de surveiller le jour de la semaine, l’heure de la journée, le navigateur et les influences géographiques.
+Découvrez comment créer un rapport d’entrée sur le site d’Adobe Advertising afin de surveiller les influences (jour de la semaine, heure de la journée, navigateur et géographique).
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)

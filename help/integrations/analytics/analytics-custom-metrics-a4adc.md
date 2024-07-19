@@ -1,6 +1,6 @@
 ---
-title: Créer [!DNL Analytics] Mesures personnalisées avec données d’Adobe Advertising
-description: Découvrez des mesures personnalisées utiles à créer lors de l’utilisation de données d’Adobe Advertising dans Adobe Analytics.
+title: Créer [!DNL Analytics] des mesures personnalisées avec des données d’Adobe Advertising
+description: Découvrez des mesures personnalisées utiles à créer lors de l’utilisation de données Adobe Advertising dans Adobe Analytics.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Créer [!DNL Analytics] Mesures personnalisées avec données d’Adobe Advertising
+# Créer [!DNL Analytics] mesures personnalisées avec des données d’Adobe Advertising
 
 *Annonceurs avec[!DNL Adobe Analytics for Adobe Advertising]*
 
-Découvrez des mesures personnalisées utiles à créer lors de l’utilisation de données d’Adobe Advertising dans Adobe Analytics.
+Découvrez des mesures personnalisées utiles à créer lors de l’utilisation de données Adobe Advertising dans Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

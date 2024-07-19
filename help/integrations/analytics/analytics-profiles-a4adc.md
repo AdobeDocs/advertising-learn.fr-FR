@@ -1,5 +1,5 @@
 ---
-title: Créer [!DNL Analytics] Profils d’activation et de création de rapports d’Adobe Advertising
+title: Créer [!DNL Analytics] des profils pour l’activation et la création de rapports d’Adobe Advertising
 description: Découvrez comment utiliser Adobe Analytics pour créer des pools de reciblage de site robustes pour le remarketing d’Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Créer [!DNL Analytics] Profils d’activation et de création de rapports d’Adobe Advertising
+# Créer des profils [!DNL Analytics] pour l’activation des Adobes Advertising et la création de rapports
 
 *Annonceurs avec[!DNL Adobe Analytics for Adobe Advertising]*
 

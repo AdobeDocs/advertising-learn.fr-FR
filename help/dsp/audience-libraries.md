@@ -1,6 +1,6 @@
 ---
 title: DSP des bibliothèques d’audiences et de l’application du ciblage comportemental
-description: Découvrez les bibliothèques d’audiences réutilisables pour personnaliser le ciblage comportemental.
+description: Découvrez les bibliothèques d’audiences réutilisables pour la personnalisation du ciblage comportemental.
 feature: DSP Audiences
 source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
