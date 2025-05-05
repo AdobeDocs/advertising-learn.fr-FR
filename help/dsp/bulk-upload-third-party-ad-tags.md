@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Découvrez comment charger plusieurs balises publicitaires tierces à la fois.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342173?captions=fre_fr)

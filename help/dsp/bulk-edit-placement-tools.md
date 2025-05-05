@@ -14,5 +14,5 @@ ht-degree: 0%
 
 Découvrez comment modifier les paramètres de plusieurs emplacements à la fois dans DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412409?captions=fre_fr)
 

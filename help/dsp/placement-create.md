@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Découvrez comment créer un emplacement d’affichage standard pour une campagne DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/344999?captions=fre_fr)

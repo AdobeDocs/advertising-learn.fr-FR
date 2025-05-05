@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Découvrez comment vos comptes d’annonces DSP sont structurés, comment utiliser les vues de gestion de campagne et les descriptions de la gestion de l’audience, de l’inventaire, de la création de rapports, des paramètres et des fonctionnalités de ressources.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412415?captions=fre_fr)
