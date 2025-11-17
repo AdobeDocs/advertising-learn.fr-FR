@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
+source-git-commit: de07d9c78e3b7704079b93a03b190e8ff180f655
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez les étapes initiales requises pour envoyer des événements de conversion Customer Journey Analytics à Adobe Advertising, où vous pouvez les inclure ultérieurement dans les objectifs d’optimisation.
 
-Une fois que vous avez effectué ces étapes et fourni la vue de données à l’équipe de votre compte Adobe, vous pouvez effectuer les étapes supplémentaires pour configurer l’intégration. Pour plus d’informations sur les étapes supplémentaires, consultez la [documentation complète](https://experienceleague.adobe.com/fr/docs/advertising/integrations/customer-journey-analytics/overview).
+Une fois que vous avez effectué ces étapes et fourni la vue de données à l’équipe de votre compte Adobe, vous pouvez effectuer les étapes supplémentaires pour configurer l’intégration. Pour plus d’informations sur les étapes supplémentaires, consultez la [documentation complète](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Vue d’ensemble
 
@@ -29,9 +29,8 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 ## Création d’une vue de données dans Analysis Workspace avec les mesures à exporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3476758?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [Présentation de l’intégration entre Adobe Advertising et Customer Journey Analytics](/help/integrations/customer-journey-analytics/overview.md)
-
+>* [Présentation de l’intégration entre Adobe Advertising et Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
