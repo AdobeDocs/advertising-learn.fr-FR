@@ -29,7 +29,7 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 ## Création d’une vue de données dans Analysis Workspace avec les mesures à exporter
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476758?captions=fre_fr&learn=on)
 
 >[!MORELIKETHIS]
 >
