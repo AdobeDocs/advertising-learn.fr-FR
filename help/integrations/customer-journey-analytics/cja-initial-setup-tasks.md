@@ -6,9 +6,9 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 7d5428d459a4f3af9847134feaa8ac06d7e6e003
+source-git-commit: e1ff921683f43266a56bcc4d4ee8870e186ca165
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez les étapes initiales requises pour envoyer des événements de conversion Customer Journey Analytics à Adobe Advertising, où vous pouvez les inclure ultérieurement dans les objectifs d’optimisation.
 
-Une fois que vous avez effectué ces étapes et fourni la vue de données à l’équipe de votre compte Adobe, vous pouvez effectuer les étapes supplémentaires pour configurer l’intégration. Pour plus d’informations sur les étapes supplémentaires, consultez la [documentation complète](/help/integrations/customer-journey-analytics/overview.md).
+Une fois que vous avez effectué ces étapes et fourni la vue de données à l’équipe de votre compte Adobe, vous pouvez effectuer les étapes supplémentaires pour configurer l’intégration. Pour plus d’informations sur les étapes supplémentaires, consultez la [documentation complète](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Vue d’ensemble
 
