@@ -46,7 +46,7 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 >[!MORELIKETHIS]
 >
->* [Présentation de l’intégration entre Adobe Advertising et Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Présentation de l’intégration entre Adobe Advertising et Customer Journey Analytics](https://experienceleague.adobe.com/fr/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Étapes d’affichage des données de campagne Adobe Advertising dans Customer Journey Analytics
 
@@ -68,4 +68,4 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 >[!MORELIKETHIS]
 >
->* [Documentation écrite](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
+>* [Documentation écrite](https://experienceleague.adobe.com/fr/docs/advertising/integrations/customer-journey-analytics/overview).
