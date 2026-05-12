@@ -34,7 +34,7 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 ### Vue d’ensemble
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476825?captions=fre_fr)
 
 ### Étape 1 : configurer un compte d’emplacement dans Customer Journey Analytics
 
@@ -64,7 +64,7 @@ Une fois que vous avez effectué ces étapes et fourni la vue de données à l�
 
 ### Étape 3 : Configurer les paramètres de persistance et les champs dérivés pour les dimensions Adobe Advertising
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476934?captions=fre_fr&learn=on)
 
 >[!MORELIKETHIS]
 >

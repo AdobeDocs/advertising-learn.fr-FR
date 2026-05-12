@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Découvrez comment télécharger plusieurs balises d’annonce publicitaire tierces à la fois.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342173?captions=fre_fr)

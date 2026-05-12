@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Découvrez la structure de vos comptes publicitaires DSP, comment utiliser les vues de gestion des campagnes et des descriptions des fonctionnalités de gestion des audiences, d’inventaire, de création de rapports, de paramètres et de ressources.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412415?captions=fre_fr)
