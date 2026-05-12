@@ -1,17 +1,34 @@
 ---
-title: Présentation de l’Adobe Advertising DSP
-description: Découvrez l’Adobe Advertising DSP et comment il peut bénéficier à vos campagnes multimédia.
+title: Présentation d’Adobe Advertising DSP
+description: Découvrez Adobe Advertising DSP et comment il peut bénéficier à vos campagnes multimédia.
 feature: DSP Introduction
 exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
-source-git-commit: af3e559e82e634a736788a66a9312bee3e3f002c
+TQID: https://experienceleague.adobe.com/IEsapE4fDSP-RHdOL47zFySrZZGA4YRMWuUugTGnr5A
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: 56
 ht-degree: 0%
 
 ---
 
-# Présentation de l’Adobe Advertising DSP
+# Présentation d’Adobe Advertising DSP
 
-Découvrez Advertising DSP, notamment comment il s’intègre à Adobe Experience Cloud, ce qu’il peut faire pour les annonceurs et comment une intégration à Adobe Analytics et à d’autres services peuvent bénéficier à vos campagnes multimédia.
+Découvrez Advertising DSP, notamment sa compatibilité avec Adobe Experience Cloud, ce qu’il peut faire pour les annonceurs et comment une intégration à Adobe Analytics et à d’autres services peut bénéficier à vos campagnes multimédia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412421?captions=fre_fr)
