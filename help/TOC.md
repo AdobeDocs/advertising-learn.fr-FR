@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [Création d’une analyse Campaign de pré-lancement avec Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Création de tableaux de bord Adobe Advertising avec Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Création  [!DNL Analytics]  mesures personnalisées avec des données Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[&#128279;](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
