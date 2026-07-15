@@ -5,15 +5,15 @@ breadcrumb-title: Tutoriels Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Tutoriels Adobe Advertising {#tutorials}
+# Tutoriels Adobe Advertising {#tutorials}
 
 + [Vue d’ensemble](overview.md)
 + DSP {#dsp}

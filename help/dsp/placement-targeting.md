@@ -1,8 +1,8 @@
 ---
 title: Fonctionnalités de ciblage des emplacements pour DSP
-description: Découvrez les différentes options de ciblage de vos emplacements.
+description: Découvrez les différentes options de ciblage pour vos emplacements.
 feature: DSP Placements
-source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Fonctionnalités de ciblage des emplacements
 
-Découvrez les différentes options de ciblage de vos emplacements DSP.
+Découvrez les différentes options de ciblage pour vos emplacements DSP.
 
 <!--
 >[!VIDEO]()
