@@ -6,27 +6,21 @@ product: advertising cloud
 index: true
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
 TQID: https://experienceleague.adobe.com/cW-nIZULEpOJipSeAplusOFkznGwzJtPhlI96tGN6aE
-product_v2:
-  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
-feature_v2:
-  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
+product_v2: id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+feature_v2: id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
+source-wordcount: 61
 ht-degree: 14%
 
 ---
 
 # Tutoriels Adobe Advertising
 
-Ces tutoriels vidéo, ainsi que la [documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/advertising), vous aideront à utiliser Adobe Advertising pour obtenir des informations sur les clients plus rapidement que jamais.
+Ces tutoriels vidéo, ainsi que la [documentation d’](https://experienceleague.adobe.com/en/docs/advertising), expliquent comment utiliser Adobe Advertising pour obtenir plus rapidement des informations sur les clients.
 
 Des vidéos sont disponibles pour :
 
