@@ -1,5 +1,5 @@
 ---
-title: Création d’une analyse Campaign de pré-lancement avec Adobe Analytics
+title: Création d’une analyse de prélancement d’une campagne avec Adobe Analytics
 description: Découvrez comment utiliser Adobe Analytics pour établir les bases du lancement d’une campagne de médias achetés Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
@@ -14,17 +14,17 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 54
 ht-degree: 0%
 
 ---
 
-# Création d’une analyse Campaign de pré-lancement avec Adobe Analytics
+# Création d’une analyse de prélancement d’une campagne avec Adobe Analytics
 
 *Annonceurs avec[!DNL Adobe Analytics for Adobe Advertising]*
 
-Découvrez comment utiliser Adobe Analytics pour établir les bases du lancement d’une campagne de médias achetés Adobe Advertising.
+Découvrez comment utiliser Adobe Analytics pour préparer le lancement d’une campagne de médias achetés Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)
