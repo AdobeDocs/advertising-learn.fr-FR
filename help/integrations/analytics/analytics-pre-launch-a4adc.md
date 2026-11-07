@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser Adobe Analytics pour préparer le lancement d’une campagne de médias achetés Adobe Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/33501)
+>[!VIDEO](https://video.tv.adobe.com/v/3506450?captions=fre_fr)

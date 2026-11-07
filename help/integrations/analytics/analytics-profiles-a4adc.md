@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser Adobe Analytics pour créer des pools de reciblage de site pour le remarketing Adobe Advertising.
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506667?captions=fre_fr)

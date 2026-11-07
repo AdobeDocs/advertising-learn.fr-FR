@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Découvrez les techniques de création d’un tableau de bord Adobe Advertising pour la surveillance des campagnes en direct.
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506503?captions=fre_fr)
