@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Découvrez comment les données d’entrée des affichages publicitaires et des clics publicitaires Adobe Advertising s’intègrent à Adobe Analytics [!DNL Marketing Channels].
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506641?captions=fre_fr)

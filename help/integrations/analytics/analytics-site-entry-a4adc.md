@@ -37,4 +37,4 @@ ht-degree: 0%
 
 Découvrez comment créer un rapport d’entrée sur le site Adobe Advertising pour surveiller le jour de la semaine, l’heure de la journée, le navigateur et les influences géographiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506576?captions=fre_fr)
